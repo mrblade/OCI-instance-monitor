@@ -4,17 +4,19 @@
     "url": "https://oracle.harsimran.me/server/health",
     "icon": "https://icons.duckduckgo.com/ip3/oracle.harsimran.me.ico",
     "slug": "oracle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 549,
-    "timeWeek": 712,
-    "timeMonth": 698,
-    "timeYear": 710,
-    "dailyMinutesDown": {}
+    "time": 711,
+    "timeDay": 670,
+    "timeWeek": 722,
+    "timeMonth": 701,
+    "timeYear": 711,
+    "dailyMinutesDown": {
+      "2025-04-11": 0
+    }
   }
 ]
