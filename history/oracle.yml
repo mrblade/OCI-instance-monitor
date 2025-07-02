@@ -1,7 +1,7 @@
 url: https://oracle.harsimran.work/server/health
-status: down
-code: 523
-responseTime: 310
-lastUpdated: 2025-07-02T09:43:45.133Z
+status: up
+code: 200
+responseTime: 1642
+lastUpdated: 2025-07-02T10:09:51.666Z
 startTime: 2024-09-06T07:28:40.897Z
 generator: Upptime <https://github.com/upptime/upptime>
